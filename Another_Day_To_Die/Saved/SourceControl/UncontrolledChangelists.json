@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Personajes/BP_Cowboy.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Levels/Level_1.umap",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Inputs/Acciones/IA_Movimiento.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Inputs/Acciones/IA_Mirar.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Inputs/IMC_Personaje_Inputs.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/FB_PlayerCB.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/die2.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_Sprite_0.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Shooting.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/walink.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Characters/BP_Player.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Game/BP_Another_Day_To_Day.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_2.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_2_Sprite.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_3.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_5.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_5_Sprite.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_3_Sprite.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Inputs/Acciones/IA_Saltar.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Inputs/IA_Movimiento.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Inputs/IA_Mirar.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/Blueprints/Sprites/FB_PlayerCB.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_Mat.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_Sprite_1.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_Sprite_2.uasset",
+				"F:/GitHub/Another-Day-To-Die-Jose-Alberto-Fontana/Another_Day_To_Die/Content/2D/Sprites/Idel_Sprite_3.uasset"
+			]
+		}
+	]
+}
